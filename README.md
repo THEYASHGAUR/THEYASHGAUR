@@ -7,7 +7,7 @@ Full Stack Web Developer
 *   🌍  I'm based in Delhi, India
 *   🖥️  See my portfolio at [My Portfolio Website](http://yashgaur-portfolio.netlify.app)
 *   ✉️  You can contact me at [yashgaur2525@gmail.com](mailto:yashgaur2525@gmail.com)
-*   🧠  I'm currently learning Next.JS
+*   🧠  I'm currently learning DevOps & Microservices Archietecture
 *   🤝  I'm open to collaborating on frontend as well as full Stack Projects.
 *   ⚡  Pursuing B.Tech (Computer Science) from IP University.
 
